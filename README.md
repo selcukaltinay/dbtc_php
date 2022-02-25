@@ -12,5 +12,9 @@ this repo includes php code lectures
 - 24.02.2022
 
 # Day 55
-> I'm here https://www.w3schools.com/php/php_superglobals.asp
-> 25.02.2022
+> I was here https://www.w3schools.com/php/php_superglobals.asp
+- 25.02.2022
+
+# Day 56
+> I'm here https://www.w3schools.com/php/php_forms.asp
+- 26.02.2022
