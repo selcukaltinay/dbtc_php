@@ -8,5 +8,9 @@ this repo includes php code lectures
 - 23.02.2022 
 
 # Day 54
-> I'm here https://www.w3schools.com/php/php_echo_print.asp
+> I was here https://www.w3schools.com/php/php_echo_print.asp
 - 24.02.2022
+
+# Day 55
+> I'm here https://www.w3schools.com/php/php_superglobals.asp
+> 25.02.2022
