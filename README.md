@@ -16,5 +16,9 @@ this repo includes php code lectures
 - 25.02.2022
 
 # Day 56
-> I'm here https://www.w3schools.com/php/php_forms.asp
+> I was here https://www.w3schools.com/php/php_forms.asp
 - 26.02.2022
+
+# Day 57
+> I'm here https://www.w3schools.com/php/php_date.asp
+- 27.02.2022
