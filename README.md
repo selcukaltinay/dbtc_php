@@ -24,5 +24,9 @@ this repo includes php code lectures
 - 27.02.2022
 
 # Day 58
-> I'm here https://www.w3schools.com/php/php_filter.asp
+> I was here https://www.w3schools.com/php/php_filter.asp
 - 28.01.2022
+
+# Day 59
+> I'm here https://www.w3schools.com/php/php_oop_what_is.asp
+> 01.03.2022
