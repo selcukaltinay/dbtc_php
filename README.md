@@ -32,5 +32,14 @@ this repo includes php code lectures
 - 01.03.2022
 
 # Day 60
-> I'm here https://www.w3schools.com/php/php_oop_interfaces.asp
+> I was here https://www.w3schools.com/php/php_oop_interfaces.asp
 - 02.03.2022
+
+# Day 61
+> I was here https://www.w3schools.com/php/php_mysql_intro.asp
+- 03.03.2022
+
+# Day 62 
+> I'm here https://www.w3schools.com/php/php_mysql_insert_lastid.asp
+- 04.03.2022
+
