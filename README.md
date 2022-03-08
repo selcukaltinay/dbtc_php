@@ -44,5 +44,9 @@ this repo includes php code lectures
 - 04.03.2022
 
 # Day 63
-> I'm here https://www.w3schools.com/php/php_xml_parsers.asp
+> I was here https://www.w3schools.com/php/php_xml_parsers.asp
 - 05.03.2022
+
+# Day 64
+> Lecture notes completed
+- 06.03.2022
